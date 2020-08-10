@@ -45,8 +45,6 @@ Essa será uma aplicação que irá se conectar ao seu backend do [Desafio 06](h
 
 ## 🎨 Layout
 
-### Original
-
 <h4 align="center">
   <img alt="Original" title="Original" src=".github/layout.gif"/>
 </h4>
